@@ -3,6 +3,4 @@ __pycache__/
 *.pyc
 data/
 .ipynb_checkpoints/
-# Local model artifacts
 *.pkl
-*.joblib
